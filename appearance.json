@@ -1,0 +1,16 @@
+{
+  "translucency": false,
+  "theme": "moonstone",
+  "baseFontSize": 17,
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "MCL Wide Views",
+    "MCL Multi Column",
+    "MCL Gallery Cards"
+  ]
+}
