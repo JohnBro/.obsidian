@@ -5,10 +5,14 @@
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "showInlineTitle": false,
   "newLinkFormat": "shortest",
   "showLineNumber": false,
   "showUnsupportedFiles": false,
-  "newFileLocation": "root"
+  "newFileLocation": "root",
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "strictLineBreaks": false
 }
