@@ -8,7 +8,6 @@
   "quickadd",
   "tag-wrangler",
   "cmdr",
-  "obsidian-local-images-plus",
   "meld-encrypt",
   "obsidian-emoji-toolbar",
   "obsidian-memos",
@@ -37,5 +36,9 @@
   "editing-toolbar",
   "workspaces-plus",
   "obsidian-image-toolkit",
-  "any-block"
+  "obsidian-regex-pipeline",
+  "any-block",
+  "obsidian-local-images-plus",
+  "obsidian-plugin-update-tracker",
+  "obsidian-kanban"
 ]
