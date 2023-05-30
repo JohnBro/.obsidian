@@ -12,7 +12,6 @@
   "obsidian-emoji-toolbar",
   "obsidian-memos",
   "obsidian-pandoc",
-  "better-pdf-plugin",
   "obsidian-enhancing-mindmap",
   "convert-url-to-iframe",
   "obsidian-vimrc-support",
@@ -37,9 +36,10 @@
   "workspaces-plus",
   "obsidian-image-toolkit",
   "obsidian-regex-pipeline",
-  "any-block",
   "obsidian-local-images-plus",
   "obsidian-plugin-update-tracker",
   "obsidian-kanban",
-  "open-vscode"
+  "open-vscode",
+  "any-block",
+  "darlal-switcher-plus"
 ]
