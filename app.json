@@ -23,5 +23,6 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "source",
-  "newFileFolderPath": "tem"
+  "newFileFolderPath": "tem",
+  "readableLineLength": false
 }
